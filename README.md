@@ -28,25 +28,25 @@
      
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 - Agile Methodology: Agile is an iterative and flexible approach to software development. Work is broken down into smaller, manageable units called sprints. Agile focuses on continuous collaboration, flexibility, and adaptability to changes.
-Advantages:
+- Advantages:
   1. Flexibility and Adaptability: Agile allows changes to be incorporated into the project throughout its life cycle. Responds well to evolving requirements and customer feedback.
   2. Faster Delivery: Since Agile uses incremental delivery (sprints), parts of the product are delivered earlier, allowing users to start using the product sooner. Helps with quick releases of functional features.
   3. Customer Collaboration: Close interaction with the customer during each sprint ensures the product meets customer expectations. Feedback from stakeholders is integrated continuously, improving the product.
   4. Better Risk Management: Regular reviews and iterations allow the team to identify issues or risks early and address them before they become major problems.
   5. Improved Team Communication: Daily stand-up meetings (or scrums) and frequent iterations foster better communication among team members, leading to higher collaboration.
-Disadvantages:
+- Disadvantages:
   1. Less Predictable: Agile can make it difficult to predict timelines, costs, and the final product in detail due to the evolving nature of the project. Budget overruns and missed deadlines are possible without proper tracking.
   2. Requires Constant Customer Involvement: Agile requires frequent interaction with the customer, which might not always be feasible, especially if the customer is unavailable or hard to reach.
   3. Scope Creep: Since changes are expected, Agile can lead to scope creep (uncontrolled changes or continuous additions to the scope), which can increase costs and delay delivery.
   4. Resource Intensive: The need for continuous testing, frequent meetings, and collaboration can demand more time and resources from both the development team and stakeholders.
 
 - Waterfall Methodology: Waterfall is a linear and sequential approach where each phase must be completed before moving to the next. It follows a structured process: Requirements > Design > Development > Testing > Deployment > Maintenance.
-Advantages:
+- Advantages:
   1. Clear Structure: Waterfall offers a clear, structured approach with defined stages, which makes it easier to understand the project flow.
   2. Well-Defined Requirements: Since the requirements are gathered upfront, Waterfall is suited for projects where the scope and specifications are clear and unlikely to change. It is easier to assess costs and timelines when everything is planned at the beginning.
   3. Easy to Manage: Waterfall’s linear process means project managers can monitor progress and resources more easily, as the next step is only started when the current one is complete.
   4. Documentation: Waterfall focuses on comprehensive documentation at each stage, which can be useful for future maintenance or regulatory compliance.
-Disadvantages:
+- Disadvantages:
   1. Inflexible to Changes: Once a phase is completed, changes are difficult and costly to implement. If requirements change mid-project, it’s hard to adjust without significant impact on timeline and budget.
   2. Late Testing: Testing happens after development, meaning issues and bugs might not be identified until later in the process, leading to higher costs and time delays for fixes.
   3. Slow Feedback: Since feedback only comes at the end of the project or after specific milestones, customers may not get a product they truly want until it’s too late to make meaningful changes.
@@ -63,7 +63,7 @@ Disadvantages:
   2. The project is straightforward with clear deliverables.
   3. Predictability, structure, and documentation are key priorities.
   4. The client or stakeholders expect a fixed timeline and budget.
-In Summary: Agile is best suited for dynamic projects that require flexibility, fast delivery, and continuous feedback, while Waterfall is ideal for projects with clear, stable requirements and a need for structured, linear progress.
+- In Summary: Agile is best suited for dynamic projects that require flexibility, fast delivery, and continuous feedback, while Waterfall is ideal for projects with clear, stable requirements and a need for structured, linear progress.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 - Methods for Ensuring Quality Assurance:
@@ -133,7 +133,7 @@ In Summary: Agile is best suited for dynamic projects that require flexibility, 
 - Scalability: Grow with the software as your business expands.
 - Support: Get help whenever you need it with 24/7 customer support.
 - Cloud Accessibility: Access your software from anywhere, at any time.
-These standout features make your software a powerful, flexible, and reliable tool that addresses the real needs of your target audience, helping them work more efficiently, securely, and effectively.
+--These standout features make your software a powerful, flexible, and reliable tool that addresses the real needs of your target audience, helping them work more efficiently, securely, and effectively.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 - To understand the market size and growth potential for your software, it's essential to look at a few key pieces of data:
